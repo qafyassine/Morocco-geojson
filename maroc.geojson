@@ -270,7 +270,7 @@
       },
       "properties": {
         "cartodb_id": 1,
-        "region": "Laayoune-Saguia Hamra"
+        "name": "Laayoune-Saguia Hamra"
       }
     },
     {
@@ -542,7 +542,7 @@
       },
       "properties": {
         "cartodb_id": 5,
-        "region": "Rabat-Sale-Kenitra"
+        "name": "Rabat-Sale-Kenitra"
       }
     },
     {
@@ -822,7 +822,7 @@
       },
       "properties": {
         "cartodb_id": 7,
-        "region": "Beni Mellal-Khenifra"
+        "name": "Beni Mellal-Khenifra"
       }
     },
     {
@@ -1134,7 +1134,7 @@
       },
       "properties": {
         "cartodb_id": 11,
-        "region": "Dakhla-Oued Eddahab"
+        "name": "Dakhla-Oued Eddahab"
       }
     },
     {
@@ -1370,7 +1370,7 @@
       },
       "properties": {
         "cartodb_id": 3,
-        "region": "Tanger-Tetouan-Hoceima"
+        "name": "Tanger-Tetouan-Hoceima"
       }
     },
     {
@@ -1822,7 +1822,7 @@
       },
       "properties": {
         "cartodb_id": 12,
-        "region": "Marrakech-Safi"
+        "name": "Marrakech-Safi"
       }
     },
     {
@@ -2430,7 +2430,7 @@
       },
       "properties": {
         "cartodb_id": 8,
-        "region": "Daraa-Tafilelt"
+        "name": "Daraa-Tafilelt"
       }
     },
     {
@@ -2682,7 +2682,7 @@
       },
       "properties": {
         "cartodb_id": 10,
-        "region": "Guelmim-Oued Noun"
+        "name": "Guelmim-Oued Noun"
       }
     },
     {
@@ -3070,7 +3070,7 @@
       },
       "properties": {
         "cartodb_id": 4,
-        "region": "Fes-Meknes"
+        "name": "Fes-Meknes"
       }
     },
     {
@@ -3638,7 +3638,7 @@
       },
       "properties": {
         "cartodb_id": 2,
-        "region": "Oriental"
+        "name": "Oriental"
       }
     },
     {
@@ -4014,7 +4014,7 @@
       },
       "properties": {
         "cartodb_id": 6,
-        "region": "Casablanca-Settat"
+        "name": "Casablanca-Settat"
       }
     },
     {
@@ -4654,7 +4654,7 @@
       },
       "properties": {
         "cartodb_id": 9,
-        "region": "Souss Massa"
+        "name": "Souss Massa"
       }
     }
   ]

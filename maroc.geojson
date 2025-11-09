@@ -270,7 +270,7 @@
       },
       "properties": {
         "cartodb_id": 1,
-        "name": "Laayoune-Saguia Hamra"
+        "name": "Laâyoune-Sakia El Hamra"
       }
     },
     {
@@ -542,7 +542,7 @@
       },
       "properties": {
         "cartodb_id": 5,
-        "name": "Rabat-Sale-Kenitra"
+        "name": "Rabat-Salé-Kénitra"
       }
     },
     {
@@ -822,7 +822,7 @@
       },
       "properties": {
         "cartodb_id": 7,
-        "name": "Beni Mellal-Khenifra"
+        "name": "Béni Mellal-Khénifra"
       }
     },
     {
@@ -1134,7 +1134,7 @@
       },
       "properties": {
         "cartodb_id": 11,
-        "name": "Dakhla-Oued Eddahab"
+        "name": "Dakhla-Oued Ed Dahab"
       }
     },
     {
@@ -1370,7 +1370,7 @@
       },
       "properties": {
         "cartodb_id": 3,
-        "name": "Tanger-Tetouan-Hoceima"
+        "name": "Tanger-Tétouan-Al Hoceïma"
       }
     },
     {
@@ -2430,7 +2430,7 @@
       },
       "properties": {
         "cartodb_id": 8,
-        "name": "Daraa-Tafilelt"
+        "name": "Drâa-Tafilalet"
       }
     },
     {
@@ -3070,7 +3070,7 @@
       },
       "properties": {
         "cartodb_id": 4,
-        "name": "Fes-Meknes"
+        "name": "Fès-Meknès"
       }
     },
     {
@@ -3638,7 +3638,7 @@
       },
       "properties": {
         "cartodb_id": 2,
-        "name": "Oriental"
+        "name": "l'Oriental"
       }
     },
     {
@@ -4654,8 +4654,9 @@
       },
       "properties": {
         "cartodb_id": 9,
-        "name": "Souss Massa"
+        "name": "Souss-Massa"
       }
     }
   ]
 }
+
